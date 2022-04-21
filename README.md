@@ -1,6 +1,6 @@
 # ASP.NET CORE + API REST + Read XML + CFDI
 
-Realizar un Web Services REST que reciba 
+Realizar un Web Service REST que reciba 
     RFC (texto)
     CFDI(XML) 
     
